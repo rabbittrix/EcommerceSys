@@ -3,6 +3,8 @@
   "proxy": "http://localhost:5000",
   "version": "0.1.0",
   "private": true,
+  "author": "Roberto de Souza",
+  "license": "ISC",
   "dependencies": {
     "@paypal/react-paypal-js": "^7.6.0",
     "@react-google-maps/api": "^2.7.0",

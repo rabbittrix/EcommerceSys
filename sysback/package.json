@@ -8,7 +8,7 @@
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Roberto de Souza",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
